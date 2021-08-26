@@ -1,0 +1,25 @@
+#datoscliente, #client-phones, #estadogestion, #datosgestion, #observacionesgestiondiv {
+	border: 1px solid #FE6C16;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	padding: 10px 0;
+}
+
+.titulopequenio {
+	font-size: 12px;
+	color: #FE6C16;
+	margin-bottom: 10px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.componente {
+	margin-bottom: 10px;
+}
+#btnguardar{
+	background-color: #FE6C16;
+	border-radius: 10px;
+	color: white;
+	width: 100px;
+	height: 35px;
+}

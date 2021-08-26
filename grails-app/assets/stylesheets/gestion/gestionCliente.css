@@ -1,0 +1,22 @@
+#tablaAdicionales{
+    text-align: center;
+    font-size: 10px;
+}
+
+#tablaAdicionales th{
+    text-align: center;
+    padding-top: 2px;
+}
+#tablaAdicionales td{
+    padding-top: 2px;
+}
+#contenedorAdicionales{
+    height: 200px;
+    /*overflow: auto;*/
+}
+#btnGuardarGestionDiv{
+    margin-bottom: 50px;
+}
+#productoSecundarioDiv{
+    /*height: 200px;*/
+}

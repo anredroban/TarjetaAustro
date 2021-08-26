@@ -1,0 +1,180 @@
+body {
+    /*size: 21cm 29.7cm;
+    margin: 30mm 45mm 30mm 45mm; /* change the margins as you want them to be. */
+    align-content: center;
+    margin: 0px;
+    width: 1050px;
+}
+
+.page{
+  width: 100%;
+}
+
+body {
+  font-family: Arial;
+}
+
+div.chapter, div.appendix {
+    page-break-after: always;
+}
+
+div.titlepage {
+  page: blank;
+}
+
+.main_tile{
+  font-family: Arial;
+  font-size: 15;
+  font-weight: bold;
+}
+
+td{
+  font-family: Arial;
+  font-size: 10;
+  height: 20;
+}
+
+#contract_info{
+  margin-top: 10;
+}
+
+#main_area{
+  border-style: solid;
+  /*width: 100%;*/
+}
+
+.small_desc{
+  font-family: Arial;
+  font-size: 9;
+  font-weight: bold;
+}
+
+.info_form{
+  table-layout: auto;
+}
+
+.info_form td{
+  border: 1px solid black;
+  text-align: center;
+}
+
+.border_center{
+  border: 1px solid black;
+  /*border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;*/
+  text-align: center;
+}
+
+.border_all{
+  border: 1px solid black;
+}
+
+.border_top{
+  border-top: 1px solid black;
+}
+
+.border_bottom{
+  border-bottom: 1px solid black;
+}
+
+.border_left{
+  border-left: 1px solid black;
+}
+
+.border_top_thick{
+  border-top: 2px solid black;
+}
+
+.border_left_thick{
+  border-left: 2px solid black;
+}
+
+.border_right_thick{
+  border-right: 2px solid black;
+}
+
+.border_bottom_thick{
+  border-bottom: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 10px;
+    margin-right1: 10px;
+}
+
+td.special {
+	border: 1px double black;
+	text-align: center; 
+}
+
+.borderless_bottom {
+	border-bottom: 1px solid white; !important;
+}
+
+.borderless_top {
+	border-top: 1px solid white; !important;
+}
+
+.title_yellow{
+  /*background: yellow;*/
+  font-family: Arial;
+  font-size: 12;
+  font-weight: bold;
+}
+
+.bg_yellow{
+  background: yellow;
+}
+
+.bold_title{
+  font-family: Arial;
+  font-size: 7;
+  font-weight: bold;
+}
+
+.bold_title_big{
+  font-family: Arial;
+  font-size: 8;
+  font-weight: bold;
+}
+
+.descriptions_big{
+  font-family: Arial;
+  font-size: 8;
+}
+
+.descriptions{
+  font-family: Arial;
+  font-size: 7;
+}
+
+.text_bold_big{
+  font-family: Arial;
+  font-size: 13;
+  font-weight: bold;
+}
+
+.text_normal{
+  font-family: Arial;
+  font-size: 13;
+  text-align: justify;
+}
+
+p {  margin-top: 0.2em; margin-bottom: 0.2em; }
+
+.bg_rose{
+	background-color: ffcce6;
+}
+
+
+/*#netlife_logo{
+  float: right;
+}
+
+.main_area{
+  width: 100%;
+  display: inline-block;
+}*/
